@@ -1,0 +1,7 @@
+- Building
+	- *nix environment setup
+		- examples
+	- windows environment setup
+		- examples
+- Performance
+	- what's a good idea to send to a c++ function and not a good idea
